@@ -1,4 +1,6 @@
 # IMDB-project
+![IMDB_Logo](https://github.com/anovikov4492/IMDB-project/assets/170392416/df8b3ddb-604c-42c2-a24e-5c4cde4b2f65)
+
 
 ## Data Source 
 [imdb_top_1000.csv](https://github.com/user-attachments/files/15810762/imdb_top_1000.csv)
