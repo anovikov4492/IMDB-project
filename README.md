@@ -52,7 +52,10 @@ What are the top 5 movies in each categeory with the highest gross and IMDB rati
 
 ![image](https://github.com/anovikov4492/IMDB-project/assets/170392416/d09464e4-f512-4454-8449-884074b74e22)
 
-WHat the movie in top 1000 has the highest gross?
+Which movie had the highest gross?
+
+![image](https://github.com/anovikov4492/IMDB-project/assets/170392416/5473191c-caef-42a2-9d79-7bf42c83b83f)
+
 
 
 
