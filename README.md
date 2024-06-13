@@ -6,8 +6,7 @@
 ### Analysis
 What Genres present in Top 1000 and how much was their gross?
 
-![Untitled](https://github.com/anovikov4492/IMDB-project/assets/170392416/3b83e857-2c54-4633-9b4a-8d2e95b1e22a)
-
+![Untitled](https://github.com/anovikov4492/IMDB-project/assets/170392416/e6c2c879-dd04-4d5f-80ac-68a51e95d2b7)
 
 
 
