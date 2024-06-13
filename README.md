@@ -4,8 +4,6 @@
 [imdb_top_1000.csv](https://github.com/user-attachments/files/15810762/imdb_top_1000.csv)
 
 ### Analysis
-What Genres present in Top 1000 and how much was their gross?
-
 
 
 What are the top 5 movies in each categeory with the highest gross and IMDB rating?
