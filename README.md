@@ -67,4 +67,4 @@ Which movie had the highest gross?
 
 
 
-Who are the top 10 directors and based on their highest single movie gross?
+
